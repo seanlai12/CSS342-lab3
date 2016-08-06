@@ -1,0 +1,378 @@
+Prospect File Name: s0.txt
+Prospect File Size: 665 bytes
+Prospect File Char: 
+ e  n  I  n  i  i 
+ -  -  -  -  -  - 
+ e  n  I  n  i  i 
+Target File Char ^ 
+100% file match!
+
+Prospect File Name: t0.txt
+Prospect File Size: 200331 bytes
+Prospect File Char: 
+ E ' ' R  F  o  b 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s1.txt
+Prospect File Size: 671 bytes
+Prospect File Char: 
+ e  n  f  n  , ' '
+ -  - 
+ e  n  I  n  i  i 
+Target File Char ^ 
+33.3333% file match!
+
+Prospect File Name: s2.txt
+Prospect File Size: 104878 bytes
+Prospect File Char: 
+ ¿ ' '' '' ' r ' '
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s3.txt
+Prospect File Size: 629 bytes
+Prospect File Char: 
+ t  h  i  e  '  u 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s4.txt
+Prospect File Size: 661 bytes
+Prospect File Char: 
+ o  s ' ' h    w 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s5.txt
+Prospect File Size: 653 bytes
+Prospect File Char: 
+ e  n  l  w ' ' a 
+ -  - 
+ e  n  I  n  i  i 
+Target File Char ^ 
+33.3333% file match!
+
+Prospect File Name: s6.txt
+Prospect File Size: 622 bytes
+Prospect File Char: 
+' ' i ' ' e  D  g 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s7.txt
+Prospect File Size: 685 bytes
+Prospect File Char: 
+ s  i ' ' ,  i  t 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s8.txt
+Prospect File Size: 660 bytes
+Prospect File Char: 
+' ' i ' ' r  h  t 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s9.txt
+Prospect File Size: 660 bytes
+Prospect File Char: 
+ r ' ' h  y  r  T 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s10.txt
+Prospect File Size: 719 bytes
+Prospect File Char: 
+' ' f  s  o ' ' d 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s11.txt
+Prospect File Size: 665 bytes
+Prospect File Char: 
+ e  n  I  n  i  i 
+ -  -  -  -  -  - 
+ e  n  I  n  i  i 
+Target File Char ^ 
+100% file match!
+
+Prospect File Name: s12.txt
+Prospect File Size: 645 bytes
+Prospect File Char: 
+ t  h  t  r  i  e 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s13.txt
+Prospect File Size: 631 bytes
+Prospect File Char: 
+ t ' ' r  s  n  c 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s154.txt
+Prospect File Size: 105570 bytes
+Prospect File Char: 
+ ¿ ' '' '' ' e  i 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t1.txt
+Prospect File Size: 172228 bytes
+Prospect File Char: 
+ E ' ' R  F \n  S 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t2.txt
+Prospect File Size: 185265 bytes
+Prospect File Char: 
+ E ' ' R  F  A  C 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t3.txt
+Prospect File Size: 180948 bytes
+Prospect File Char: 
+ M  B  L  b  a  d 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t4.txt
+Prospect File Size: 200331 bytes
+Prospect File Char: 
+ E ' ' R  F  o  b 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t5.txt
+Prospect File Size: 179032 bytes
+Prospect File Char: 
+ E ' ' R  F    o 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s0.txt
+Prospect File Size: 665 bytes
+Prospect File Char: 
+ e  n  I  n  i  i 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t0.txt
+Prospect File Size: 200331 bytes
+Prospect File Char: 
+ E ' ' R  F  o  b \n  r 
+ -  -  -  -  -  -  -  - 
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+100% file match!
+
+Prospect File Name: s1.txt
+Prospect File Size: 671 bytes
+Prospect File Char: 
+ e  n  f  n  , ' '
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s2.txt
+Prospect File Size: 104878 bytes
+Prospect File Char: 
+ ¿ ' '' '' ' r ' ' b  e 
+
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s3.txt
+Prospect File Size: 629 bytes
+Prospect File Char: 
+ t  h  i  e  '  u 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s4.txt
+Prospect File Size: 661 bytes
+Prospect File Char: 
+ o  s ' ' h    w 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s5.txt
+Prospect File Size: 653 bytes
+Prospect File Char: 
+ e  n  l  w ' ' a 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s6.txt
+Prospect File Size: 622 bytes
+Prospect File Char: 
+' ' i ' ' e  D  g 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s7.txt
+Prospect File Size: 685 bytes
+Prospect File Char: 
+ s  i ' ' ,  i  t 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s8.txt
+Prospect File Size: 660 bytes
+Prospect File Char: 
+' ' i ' ' r  h  t 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s9.txt
+Prospect File Size: 660 bytes
+Prospect File Char: 
+ r ' ' h  y  r  T 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s10.txt
+Prospect File Size: 719 bytes
+Prospect File Char: 
+' ' f  s  o ' ' d 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s11.txt
+Prospect File Size: 665 bytes
+Prospect File Char: 
+ e  n  I  n  i  i 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s12.txt
+Prospect File Size: 645 bytes
+Prospect File Char: 
+ t  h  t  r  i  e 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s13.txt
+Prospect File Size: 631 bytes
+Prospect File Char: 
+ t ' ' r  s  n  c 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s154.txt
+Prospect File Size: 105570 bytes
+Prospect File Char: 
+ ¿ ' '' '' ' e  i  l  r 
+
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t1.txt
+Prospect File Size: 172228 bytes
+Prospect File Char: 
+ E ' ' R  F \n  S ' ' W 
+ -  -  -  - 
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+50% file match!
+
+Prospect File Name: t2.txt
+Prospect File Size: 185265 bytes
+Prospect File Char: 
+ E ' ' R  F  A  C  n ' '
+ -  -  -  - 
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+50% file match!
+
+Prospect File Name: t3.txt
+Prospect File Size: 180948 bytes
+Prospect File Char: 
+ M  B  L  b  a  d  i ' '
+
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t4.txt
+Prospect File Size: 200331 bytes
+Prospect File Char: 
+ E ' ' R  F  o  b \n  r 
+ -  -  -  -  -  -  -  - 
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+100% file match!
+
+Prospect File Name: t5.txt
+Prospect File Size: 179032 bytes
+Prospect File Char: 
+ E ' ' R  F    o  s  s 
+ -  -  -  - 
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+50% file match!
+

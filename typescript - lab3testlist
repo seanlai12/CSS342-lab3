@@ -1,0 +1,19 @@
+==6340== Memcheck, a memory error detector
+==6340== Copyright (C) 2002-2009, and GNU GPL'd, by Julian Seward et al.
+==6340== Using Valgrind-3.5.0 and LibVEX; rerun with -h for copyright info
+==6340== Command: ./a.out
+==6340== 
+ a  b 
+ - 
+Matched Byte Number: 2 
+This should be printed, since test2 now partially matches test1
+This should be printed because test4 is NULL and test3 is not
+==6340== 
+==6340== HEAP SUMMARY:
+==6340==     in use at exit: 0 bytes in 0 blocks
+==6340==   total heap usage: 8 allocs, 8 frees, 36 bytes allocated
+==6340== 
+==6340== All heap blocks were freed -- no leaks are possible
+==6340== 
+==6340== For counts of detected and suppressed errors, rerun with: -v
+==6340== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 16 from 8)

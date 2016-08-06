@@ -1,0 +1,577 @@
+==6293== Memcheck, a memory error detector
+==6293== Copyright (C) 2002-2009, and GNU GPL'd, by Julian Seward et al.
+==6293== Using Valgrind-3.5.0 and LibVEX; rerun with -h for copyright info
+==6293== Command: ./a.out
+==6293== 
+Prospect File Name: s0.txt
+Prospect File Size: 665 bytes
+Prospect File Char: 
+ e  n  I  n  i  i 
+ -  -  -  -  -  - 
+Matched Byte Number: 2 3 5 13 89 233 
+ e  n  I  n  i  i 
+Target File Char ^ 
+100% file match!
+
+Prospect File Name: t0.txt
+Prospect File Size: 200331 bytes
+Prospect File Char: 
+ E ' ' R  F  o  b 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s1.txt
+Prospect File Size: 671 bytes
+Prospect File Char: 
+ e  n  f  n  , ' '
+ -  - 
+Matched Byte Number: 2 3 
+ e  n  I  n  i  i 
+Target File Char ^ 
+33.3333% file match!
+
+Prospect File Name: s2.txt
+Prospect File Size: 104878 bytes
+Prospect File Char: 
+ ? ' '' '' ' r ' '
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s3.txt
+Prospect File Size: 629 bytes
+Prospect File Char: 
+ t  h  i  e  '  u 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s4.txt
+Prospect File Size: 661 bytes
+Prospect File Char: 
+  w s ' ' h  
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s5.txt
+Prospect File Size: 653 bytes
+Prospect File Char: 
+ e  n  l  w ' ' a 
+ -  - 
+Matched Byte Number: 2 3 
+ e  n  I  n  i  i 
+Target File Char ^ 
+33.3333% file match!
+
+Prospect File Name: s6.txt
+Prospect File Size: 622 bytes
+Prospect File Char: 
+' ' i ' ' e  D  g 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s7.txt
+Prospect File Size: 685 bytes
+Prospect File Char: 
+ s  i ' ' ,  i  t 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s8.txt
+Prospect File Size: 660 bytes
+Prospect File Char: 
+' ' i ' ' r  h  t 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s9.txt
+Prospect File Size: 660 bytes
+Prospect File Char: 
+ r ' ' h  y  r  T 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s10.txt
+Prospect File Size: 719 bytes
+Prospect File Char: 
+' ' f  s  o ' ' d 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s11.txt
+Prospect File Size: 665 bytes
+Prospect File Char: 
+ e  n  I  n  i  i 
+ -  -  -  -  -  - 
+Matched Byte Number: 2 3 5 13 89 233 
+ e  n  I  n  i  i 
+Target File Char ^ 
+100% file match!
+
+Prospect File Name: s12.txt
+Prospect File Size: 645 bytes
+Prospect File Char: 
+ t  h  t  r  i  e 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s13.txt
+Prospect File Size: 631 bytes
+Prospect File Char: 
+ t ' ' r  s  n  c 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s154.txt
+Prospect File Size: 105570 bytes
+Prospect File Char: 
+ ? ' '' '' ' e  i 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t1.txt
+Prospect File Size: 172228 bytes
+Prospect File Char: 
+ E ' ' R  F \n  S 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t2.txt
+Prospect File Size: 185265 bytes
+Prospect File Char: 
+ E ' ' R  F  A  C 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t3.txt
+Prospect File Size: 180948 bytes
+Prospect File Char: 
+ M  B  L  b  a  d 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t4.txt
+Prospect File Size: 200331 bytes
+Prospect File Char: 
+ E ' ' R  F  o  b 
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t5.txt
+Prospect File Size: 179032 bytes
+Prospect File Char: 
+  o  ' R  F  
+
+ e  n  I  n  i  i 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s0.txt
+Prospect File Size: 665 bytes
+Prospect File Char: 
+ e  n  I  n  i  i 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t0.txt
+Prospect File Size: 200331 bytes
+Prospect File Char: 
+ E ' ' R  F  o  b \n  r 
+ -  -  -  -  -  -  -  - 
+Matched Byte Number: 2 3 5 13 89 233 1597 28657 
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+100% file match!
+
+Prospect File Name: s1.txt
+Prospect File Size: 671 bytes
+Prospect File Char: 
+ e  n  f  n  , ' '
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s2.txt
+Prospect File Size: 104878 bytes
+Prospect File Char: 
+ ? ' '' '' ' r ' ' b  e 
+
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s3.txt
+Prospect File Size: 629 bytes
+Prospect File Char: 
+ t  h  i  e  '  u 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s4.txt
+Prospect File Size: 661 bytes
+Prospect File Char: 
+  w s ' ' h  
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s5.txt
+Prospect File Size: 653 bytes
+Prospect File Char: 
+ e  n  l  w ' ' a 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s6.txt
+Prospect File Size: 622 bytes
+Prospect File Char: 
+' ' i ' ' e  D  g 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s7.txt
+Prospect File Size: 685 bytes
+Prospect File Char: 
+ s  i ' ' ,  i  t 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s8.txt
+Prospect File Size: 660 bytes
+Prospect File Char: 
+' ' i ' ' r  h  t 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s9.txt
+Prospect File Size: 660 bytes
+Prospect File Char: 
+ r ' ' h  y  r  T 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s10.txt
+Prospect File Size: 719 bytes
+Prospect File Char: 
+' ' f  s  o ' ' d 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s11.txt
+Prospect File Size: 665 bytes
+Prospect File Char: 
+ e  n  I  n  i  i 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s12.txt
+Prospect File Size: 645 bytes
+Prospect File Char: 
+ t  h  t  r  i  e 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s13.txt
+Prospect File Size: 631 bytes
+Prospect File Char: 
+ t ' ' r  s  n  c 
+
+ E ' ' R  F  o  b 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: s154.txt
+Prospect File Size: 105570 bytes
+Prospect File Char: 
+ ? ' '' '' ' e  i  l  r 
+
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t1.txt
+Prospect File Size: 172228 bytes
+Prospect File Char: 
+ E ' ' R  F \n  S ' ' W 
+ -  -  -  - 
+Matched Byte Number: 2 3 5 13 
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+50% file match!
+
+Prospect File Name: t2.txt
+Prospect File Size: 185265 bytes
+Prospect File Char: 
+ E ' ' R  F  A  C  n ' '
+ -  -  -  - 
+Matched Byte Number: 2 3 5 13 
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+50% file match!
+
+Prospect File Name: t3.txt
+Prospect File Size: 180948 bytes
+Prospect File Char: 
+ M  B  L  b  a  d  i ' '
+
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+0% file match!
+
+Prospect File Name: t4.txt
+Prospect File Size: 200331 bytes
+Prospect File Char: 
+ E ' ' R  F  o  b \n  r 
+ -  -  -  -  -  -  -  - 
+Matched Byte Number: 2 3 5 13 89 233 1597 28657 
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+100% file match!
+
+Prospect File Name: t5.txt
+Prospect File Size: 179032 bytes
+Prospect File Char: 
+  o  s  s F  
+ -  -  -  - 
+Matched Byte Number: 2 3 5 13 
+ E ' ' R  F  o  b \n  r 
+Target File Char ^ 
+50% file match!
+
+compareFilesPF takes 4120000 clock ticks ~= 4.12 seconds
+Target File Name: s0.txt
+Target File Size: 665 bytes
+
+Prospect File Name: s0.txt
+Prospect File Size: 665 bytes
+100% file match!
+
+Prospect File Name: t0.txt
+Prospect File Size: 200331 bytes
+File did not match!
+
+Prospect File Name: s1.txt
+Prospect File Size: 671 bytes
+File did not match!
+
+Prospect File Name: s2.txt
+Prospect File Size: 104878 bytes
+File did not match!
+
+Prospect File Name: s3.txt
+Prospect File Size: 629 bytes
+File did not match!
+
+Prospect File Name: s4.txt
+Prospect File Size: 661 bytes
+File did not match!
+
+Prospect File Name: s5.txt
+Prospect File Size: 653 bytes
+File did not match!
+
+Prospect File Name: s6.txt
+Prospect File Size: 622 bytes
+File did not match!
+
+Prospect File Name: s7.txt
+Prospect File Size: 685 bytes
+File did not match!
+
+Prospect File Name: s8.txt
+Prospect File Size: 660 bytes
+File did not match!
+
+Prospect File Name: s9.txt
+Prospect File Size: 660 bytes
+File did not match!
+
+Prospect File Name: s10.txt
+Prospect File Size: 719 bytes
+File did not match!
+
+Prospect File Name: s11.txt
+Prospect File Size: 665 bytes
+100% file match!
+
+Prospect File Name: s12.txt
+Prospect File Size: 645 bytes
+File did not match!
+
+Prospect File Name: s13.txt
+Prospect File Size: 631 bytes
+File did not match!
+
+Prospect File Name: s154.txt
+Prospect File Size: 105570 bytes
+File did not match!
+
+Prospect File Name: t1.txt
+Prospect File Size: 172228 bytes
+File did not match!
+
+Prospect File Name: t2.txt
+Prospect File Size: 185265 bytes
+File did not match!
+
+Prospect File Name: t3.txt
+Prospect File Size: 180948 bytes
+File did not match!
+
+Prospect File Name: t4.txt
+Prospect File Size: 200331 bytes
+File did not match!
+
+Prospect File Name: t5.txt
+Prospect File Size: 179032 bytes
+File did not match!
+
+Target File Name: t0.txt
+Target File Size: 200331 bytes
+
+Prospect File Name: s0.txt
+Prospect File Size: 665 bytes
+File did not match!
+
+Prospect File Name: t0.txt
+Prospect File Size: 200331 bytes
+100% file match!
+
+Prospect File Name: s1.txt
+Prospect File Size: 671 bytes
+File did not match!
+
+Prospect File Name: s2.txt
+Prospect File Size: 104878 bytes
+File did not match!
+
+Prospect File Name: s3.txt
+Prospect File Size: 629 bytes
+File did not match!
+
+Prospect File Name: s4.txt
+Prospect File Size: 661 bytes
+File did not match!
+
+Prospect File Name: s5.txt
+Prospect File Size: 653 bytes
+File did not match!
+
+Prospect File Name: s6.txt
+Prospect File Size: 622 bytes
+File did not match!
+
+Prospect File Name: s7.txt
+Prospect File Size: 685 bytes
+File did not match!
+
+Prospect File Name: s8.txt
+Prospect File Size: 660 bytes
+File did not match!
+
+Prospect File Name: s9.txt
+Prospect File Size: 660 bytes
+File did not match!
+
+Prospect File Name: s10.txt
+Prospect File Size: 719 bytes
+File did not match!
+
+Prospect File Name: s11.txt
+Prospect File Size: 665 bytes
+File did not match!
+
+Prospect File Name: s12.txt
+Prospect File Size: 645 bytes
+File did not match!
+
+Prospect File Name: s13.txt
+Prospect File Size: 631 bytes
+File did not match!
+
+Prospect File Name: s154.txt
+Prospect File Size: 105570 bytes
+File did not match!
+
+Prospect File Name: t1.txt
+Prospect File Size: 172228 bytes
+File did not match!
+
+Prospect File Name: t2.txt
+Prospect File Size: 185265 bytes
+File did not match!
+
+Prospect File Name: t3.txt
+Prospect File Size: 180948 bytes
+File did not match!
+
+Prospect File Name: t4.txt
+Prospect File Size: 200331 bytes
+100% file match!
+
+Prospect File Name: t5.txt
+Prospect File Size: 179032 bytes
+File did not match!
+
+compareFilesAll takes 1310000 clock ticks ~= 1.31 seconds
+==6293== 
+==6293== HEAP SUMMARY:
+==6293==     in use at exit: 0 bytes in 0 blocks
+==6293==   total heap usage: 1,414 allocs, 1,414 frees, 1,465,848 bytes allocated
+==6293== 
+==6293== All heap blocks were freed -- no leaks are possible
+==6293== 
+==6293== For counts of detected and suppressed errors, rerun with: -v
+==6293== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 15 from 8
